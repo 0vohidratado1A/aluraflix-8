@@ -5,11 +5,14 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 margin: 10px;
 
 
-
-
-
-
+h1{
+color: gray
+font-size: 25 px;}
+p{ font-size: 25px;}
+header{border-bottom: solid red;
+margin:2px;
+padding:10px;
+color: darkred;
 
 
 }
-
